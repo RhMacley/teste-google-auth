@@ -50,7 +50,7 @@ function App() {
                   <ListGroup.Item>React Google Login</ListGroup.Item>
                   <ListGroup.Item>React Bootstrap</ListGroup.Item>
                   <ListGroup.Item>Link do repositório do github: </ListGroup.Item>
-                  <ListGroup.Item><a href="https://github.com/RhMacley/test-google-auth" rel="noreferrer" target="_blank">https://github.com/RhMacley/test-google-auth</a></ListGroup.Item>
+                  <ListGroup.Item><a href="https://github.com/RhMacley/teste-google-auth" rel="noreferrer" target="_blank">https://github.com/RhMacley/teste-google-auth</a></ListGroup.Item>
                 </ListGroup>
               </Card.Body>
             </Card>
